@@ -1,0 +1,16 @@
+h2,
+h4 {
+  margin: 0;
+  text-align: center;
+}
+
+.headerContainer {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  border-bottom: solid 1px;
+  padding-bottom: 20px;
+}
+
+.headerTitle {
+  text-decoration: underline;
+}

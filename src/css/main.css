@@ -1,0 +1,17 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  --primary-color: #0ebd60;
+  --text-primary: #eff4ed;
+  color: var(--text-primary);
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 5px;
+}
+
+button.secondary {
+  --primary-color: #cad1c9;
+  --text-primary: #184c34;
+}
